@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(95, 95, 95);
+}
+
+a{
+    display: block;
+    font-size: 40px;
+    margin-top: 200px;
+    text-align: center;
+    color: hotpink;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    transition: .5s;
+}
+
+a:hover{
+    font-size: 45px;
+    text-shadow: 2px 2px 5px black;
+}
